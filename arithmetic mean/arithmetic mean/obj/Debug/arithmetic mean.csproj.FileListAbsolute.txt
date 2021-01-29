@@ -1,0 +1,7 @@
+D:\Users\Janul\source\repos\arithmetic mean\arithmetic mean\bin\Debug\arithmetic mean.exe.config
+D:\Users\Janul\source\repos\arithmetic mean\arithmetic mean\bin\Debug\arithmetic mean.exe
+D:\Users\Janul\source\repos\arithmetic mean\arithmetic mean\bin\Debug\arithmetic mean.pdb
+D:\Users\Janul\source\repos\arithmetic mean\arithmetic mean\obj\Debug\arithmetic mean.csprojAssemblyReference.cache
+D:\Users\Janul\source\repos\arithmetic mean\arithmetic mean\obj\Debug\arithmetic mean.csproj.CoreCompileInputs.cache
+D:\Users\Janul\source\repos\arithmetic mean\arithmetic mean\obj\Debug\arithmetic mean.exe
+D:\Users\Janul\source\repos\arithmetic mean\arithmetic mean\obj\Debug\arithmetic mean.pdb
